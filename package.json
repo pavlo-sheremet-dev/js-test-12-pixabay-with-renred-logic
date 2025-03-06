@@ -1,11 +1,11 @@
 {
-  "name": "js-test-12",
+  "name": "js-test-12-pixabay-with-renred-logic",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-test-12/",
+    "build": "vite build --base=/js-test-12-pixabay-with-renred-logic/",
     "preview": "vite preview"
   },
   "devDependencies": {
